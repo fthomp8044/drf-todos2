@@ -42,7 +42,7 @@ INSTALLED_APPS = [
 
 
     #local party
-#     'todos.apps.TodosConfig',
+    'todos.apps.TodosConfig',
 # ]
 
 MIDDLEWARE = [
