@@ -43,7 +43,7 @@ INSTALLED_APPS = [
 
     #local party
     'todos.apps.TodosConfig',
-# ]
+]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
